@@ -1,0 +1,2 @@
+C:\Users\jake1\Desktop\kerneldev\sampledriver\x64\Debug\sampledriver.sys
+\\vmware-host\Shared Folders\kerneldev\sampledriver\x64\Debug\sampledriver.sys

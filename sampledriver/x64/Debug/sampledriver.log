@@ -1,0 +1,8 @@
+﻿  Building 'sampledriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Sample.cpp
+  sampledriver.vcxproj -> \\vmware-host\Shared Folders\kerneldev\sampledriver\x64\Debug\sampledriver.sys
+  Done Adding Additional Store
+  Successfully signed: \\vmware-host\Shared Folders\kerneldev\sampledriver\x64\Debug\sampledriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

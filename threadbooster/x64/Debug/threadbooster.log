@@ -1,0 +1,4 @@
+﻿  Building 'threadbooster' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  threadbooster.vcxproj -> \\vmware-host\Shared Folders\kerneldev\threadbooster\x64\Debug\threadbooster.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  

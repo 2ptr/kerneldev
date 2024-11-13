@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "threadbooster", "threadbooster.vcxproj", "{63B4BB19-33D7-451B-A3AC-48C807AB260E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "threadbooster_client", "..\threadbooster_client\threadbooster_client.vcxproj", "{3846502B-25C4-4B30-B740-0609C86C1593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Debug|ARM64.Build.0 = Debug|ARM64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Debug|x64.ActiveCfg = Debug|x64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Debug|x64.Build.0 = Debug|x64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Debug|x64.Deploy.0 = Debug|x64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Release|ARM64.ActiveCfg = Release|ARM64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Release|ARM64.Build.0 = Release|ARM64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Release|ARM64.Deploy.0 = Release|ARM64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Release|x64.ActiveCfg = Release|x64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Release|x64.Build.0 = Release|x64
+		{63B4BB19-33D7-451B-A3AC-48C807AB260E}.Release|x64.Deploy.0 = Release|x64
+		{3846502B-25C4-4B30-B740-0609C86C1593}.Debug|ARM64.ActiveCfg = Debug|x64
+		{3846502B-25C4-4B30-B740-0609C86C1593}.Debug|ARM64.Build.0 = Debug|x64
+		{3846502B-25C4-4B30-B740-0609C86C1593}.Debug|x64.ActiveCfg = Debug|x64
+		{3846502B-25C4-4B30-B740-0609C86C1593}.Debug|x64.Build.0 = Debug|x64
+		{3846502B-25C4-4B30-B740-0609C86C1593}.Release|ARM64.ActiveCfg = Release|x64
+		{3846502B-25C4-4B30-B740-0609C86C1593}.Release|ARM64.Build.0 = Release|x64
+		{3846502B-25C4-4B30-B740-0609C86C1593}.Release|x64.ActiveCfg = Release|x64
+		{3846502B-25C4-4B30-B740-0609C86C1593}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
